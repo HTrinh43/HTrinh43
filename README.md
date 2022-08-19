@@ -1,4 +1,4 @@
-👋 Hi, I’m Alex Trinh
+👋 Hi, I’m Alex Trinh. A results-driven and highly motivated software engineer with expertise in mobile application development, web development, and project management.
 
 
 <!---
